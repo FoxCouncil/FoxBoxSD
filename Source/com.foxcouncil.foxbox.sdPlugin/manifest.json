@@ -1,0 +1,61 @@
+{
+    "Actions": [
+        {
+            "Icon": "actionIcon",
+            "Name": "Boner",
+            "States": [
+                {
+                    "Image": "pluginIcon",
+                    "TitleAlignment": "middle",
+                    "FontSize": "16"
+                }
+            ],
+            "SupportedInMultiActions": false,
+            "Tooltip": "How many times did you get Boner today? Keep track with this counter.",
+            "UUID": "com.foxcouncil.foxbox.boner.action"
+        },
+        {
+            "Icon": "actionIcon",
+            "Name": "Toggle Images",
+            "States": [
+                {
+                    "Image": "pluginIcon",
+                    "TitleAlignment": "middle",
+                    "FontSize": "16"
+                },
+                {
+                    "Image": "pluginIcon",
+                    "TitleAlignment": "middle",
+                    "FontSize": "16"
+                }
+            ],
+            "SupportedInMultiActions": false,
+            "Tooltip": "Toggle between two images",
+            "UUID": "com.foxcouncil.foxbox.imgtoggle.action"
+        }
+    ],
+    "SDKVersion": 2,
+    "Author": "FoxCouncil",
+    "CodePathMac": "foxbox",
+    "CodePathWin": "foxbox.exe",
+    "Description": "A box of Fox's StreamDeck tools.",
+    "Name": "FoxBox",
+    "Category": "Fox's Tools",
+    "CategoryIcon": "categoryIcon",
+    "Icon": "pluginIcon",
+    "URL": "https://foxcouncil.com/streamdecktools",
+    "Version": "1.0",
+    "OS": [
+        {
+            "Platform": "mac",
+            "MinimumVersion": "10.11"
+        },
+        {
+            "Platform": "windows",
+            "MinimumVersion": "10"
+        }
+    ],
+    "Software": {
+        "MinimumVersion": "4.1"
+    }
+}

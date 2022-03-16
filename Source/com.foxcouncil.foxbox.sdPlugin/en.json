@@ -1,0 +1,8 @@
+{
+    "Description": "A box of Fox's StreamDeck tools.",
+    "Name": "FoxBox",
+    "com.elgato.foxcouncil.boner.action": {
+      "Name": "Boner",
+      "Tooltip": "How many times did you get a bonber today? Keep track with this counter."
+    }
+  }
